@@ -3,5 +3,4 @@
     "url": "https://chromeenterprise.google/browser/download/#/chrome.msi",
     "extract_dir": "chrome",
     "bin": "chrome.exe"
-    }
 }

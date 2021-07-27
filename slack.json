@@ -1,12 +1,7 @@
 {
     "version": "nightly",
-    "url": "https://slack.com/ssb/download-win64-msi#/slack-setup.msi",
-    "extract_dir": "Slack",
-    "bin": "Slack.exe",
-    "shortcuts": [
-        [
-            "Slack.exe",
-            "Slack"
-        ]
-    ],
+    "url": "https://slack.com/ssb/download-win64-msi#/setup.msi_",
+     "installer": {
+        "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/i', \"$dir\\setup.msi_\", '/qn') -RunAs | Out-Null"
+    },
 }

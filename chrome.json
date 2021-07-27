@@ -1,0 +1,7 @@
+{
+    "version": "nightly",
+    "url": "https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1#/chrome.exe",
+    "installer": {
+        "args": "/S"
+    }
+}

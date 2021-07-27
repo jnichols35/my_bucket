@@ -1,7 +1,7 @@
 {
     "version": "nightly",
-    "url": "https://www.google.com/intl/en/chrome/thank-you.html?standalone=1&statcb=0&installdataindex=empty&defaultbrowser=0#/chrome.exe",
-    "installer": {
-        "args": "/S"
+    "url": "https://chromeenterprise.google/browser/download/#/chrome.msi",
+    "extract_dir": "chrome",
+    "bin": "chrome.exe"
     }
 }

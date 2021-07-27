@@ -1,6 +1,6 @@
 {
     "version": "nightly",
-    "url": "https://chromeenterprise.google/browser/download/#/chrome.msi",
-    "extract_dir": "chrome",
+    "url": "https://chromeenterprise.google/browser/download#/googlechromestandaloneenterprise64.msi",
+    "extract_dir": "googlechromestandaloneenterprise64",
     "bin": "chrome.exe"
 }

@@ -1,0 +1,7 @@
+{
+    "version": "nightly",
+    "url": "https://www.dropbox.com/download?os=win",
+    "installer": {
+        "args": "/S"
+    }
+}

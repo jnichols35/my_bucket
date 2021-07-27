@@ -1,6 +1,6 @@
 {
     "version": "nightly",
-    "url": "https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1#/chrome.exe",
+    "url": "https://www.google.com/intl/en/chrome/thank-you.html?standalone=1&statcb=0&installdataindex=empty&defaultbrowser=0#/chrome.exe",
     "installer": {
         "args": "/S"
     }

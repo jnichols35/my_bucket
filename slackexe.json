@@ -1,0 +1,7 @@
+{
+    "version": "nightly",
+    "url": "https://slack.com/api/desktop.latestRelease?arch=x64&variant=exe&redirect=true",
+    "installer": {
+        "args": "/S"
+    }
+}

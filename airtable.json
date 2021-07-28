@@ -1,0 +1,7 @@
+{
+    "version": "nightly",
+    "url": "https://static.airtable.com/download/win/AirtableSetup1.4.5.exe",
+    "installer": {
+        "args": "/S"
+    }
+}

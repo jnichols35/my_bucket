@@ -1,6 +1,7 @@
 {
     "version": "nightly",
-    "url": "https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise64.msi#/googlechrome.msi",
-    "extract_dir": "googlechrome",
-    "bin": "chrome.exe"
+    "url": "https://dl.google.com/tag/s/dl/chrome/install/ChromeStandaloneSetup64.exe",
+    "installer": {
+        "args": "/S"
+    }
 }

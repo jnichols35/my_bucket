@@ -1,0 +1,7 @@
+{
+    "version": "nightly",
+    "url": "https://vod-updates.8x8.com/ga/work-64-exe-v7.9.4-2.exe",
+    "installer": {
+        "args": "/S"
+    }
+}

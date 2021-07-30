@@ -1,5 +1,5 @@
 {
   "version": "nightly",
-  "url": "https://gist.githubusercontent.com/jnichols35/bef8b26b1de95f1ee88eefc85e8b6bf4/raw/839cf7a04d25d532cc3f66d9ec5099d1f7843bb3/win10wua.ps1"
+  "url": "https://gist.githubusercontent.com/jnichols35/bef8b26b1de95f1ee88eefc85e8b6bf4/raw/839cf7a04d25d532cc3f66d9ec5099d1f7843bb3/win10wua.ps1",
   "bin": "win10wua.ps1"
 }
